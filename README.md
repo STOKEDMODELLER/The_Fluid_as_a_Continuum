@@ -4,7 +4,7 @@ There is space between molecules making up mater that is in different states. Th
 $$\rho = \frac{\delta m} {\delta V}$$
 where $\delta m$ is mass and $\delta V$ is volume. When analyzing $\delta V$ that is very small, molecules are constantly moving in and out of the region being examined. This random movement of molecules in and out of the region will result in a phenomenon called microscopic uncertainty. This random movement of molecules in and out of the region is not equal; one of the major contributing factor to that is the spacing of molecules. Therefore, it is imperative to determine the sampling volume of $\delta V^*$ that is not too tiny to result in the microscopic uncertainty and too bit to pick up the finer processes taking place. In order to mathematically describe how to choose the right $\delta V^*$ one must assume the measured average density within the region gets closer to the total density of the matter being examined, described by
 
-$$\rho =  \lim_{\delta V \to \delta V^*} \frac{\delta m} {\delta V} $$
+$$ \rho =  \lim_{\delta V \to \delta V^*} \frac{\delta m} {\delta V} $$
 
 Where $\delta V^*$ the ideal size of sample volume that preserves the continuity of this discontinuous liquid.
 
