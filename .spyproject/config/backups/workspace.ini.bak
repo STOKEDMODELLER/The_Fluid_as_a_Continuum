@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['untitled0.py', 'defs.py']
+recent_files = ['defs.py', 'The_Fluid_as_a_Continuum.py']
 
