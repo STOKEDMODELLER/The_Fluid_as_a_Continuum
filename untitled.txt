@@ -1,3 +1,0 @@
-Surface forces that act on an object will not always act perpendicular to the surface. Figure below discribes surface forces acting on a cuboid element.
-![Components of stress in three dimensions](Components_stress_tensor_cartesian.png)
-This cuboid element is assumed to be in equilibrium. Hence, each of these surface force vectors (traction vectors) have an qual and oposite traction vectors on the parallel surface of the cuboid.
